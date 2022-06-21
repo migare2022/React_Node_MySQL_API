@@ -1,0 +1,16 @@
+[{
+        "type": "Title",
+        "label":"Title ",
+        "name": "Titulo",
+        "placeholder": ""
+   
+    },
+
+     
+      {
+        "type": "Content",
+        "label":"Content ",
+        "name": "Content",
+        "placeholder": "Type message"
+    }
+]
